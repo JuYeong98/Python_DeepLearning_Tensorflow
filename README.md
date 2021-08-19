@@ -1,3 +1,4 @@
 # Python_DeepLearning_Tensorflow
 
-I study about DeepLearning with tensorflow!
+I study about DeepLearning(especially CNN) with tensorflow!
+
